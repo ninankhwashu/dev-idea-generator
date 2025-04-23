@@ -103,8 +103,16 @@ const ideas = [
 
 const generateButton = document.getElementById("generateButton");
 const ideaText = document.getElementById("ideaText");
+const ideaBox = document.getElementById("ideaBox");
 
 generateButton.addEventListener("click", () => {
   const randomIndex = Math.floor(Math.random() * ideas.length);
   ideaText.textContent = ideas[randomIndex];
+
+  ideaBox.classList.add("highlighted");
+
+  ideaBox.style.transform = "scale(1.05)";
+  setTimeout(() => {
+    ideaBox.style.transform = "scale(1)";
+  }, 150);
 });
