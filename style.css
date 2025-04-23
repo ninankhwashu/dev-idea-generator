@@ -147,17 +147,17 @@ button:hover {
 
 footer {
   position: absolute;
-  bottom: 20px;
+  bottom: 30px;
   width: 100%;
   text-align: center;
-  font-size: 14px;
+  font-size: 20px;
   color: #ffffff;
   z-index: 2;
   font-style: italic;
-  opacity: 0.8;
+  opacity: 0.9;
 }
 footer:hover {
-  color: #bd4bf9;
+  color: #ffb608;
   text-shadow: 0 0 6px rgba(255, 255, 255, 0.3);
   transition: all 0.3s ease;
 }
