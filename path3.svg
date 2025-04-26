@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="12.700097mm"
+   height="12.700033mm"
+   viewBox="0 0 12.700097 12.700033"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"><inkscape:page
+       x="0"
+       y="0"
+       width="12.700097"
+       height="12.700033"
+       id="page2"
+       margin="0"
+       bleed="0" /></sodipodi:namedview><defs
+     id="defs1" /><g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-406.56235,-312.96641)"><g
+       id="g3"
+       transform="matrix(1,0,0,1.7273821,-0.00254716,-227.63346)"
+       style="fill:#ffb608;fill-opacity:1"
+       inkscape:export-filename="logo.svg"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5081px;font-family:'Alpaca Scarlett Demo';-inkscape-font-specification:'Alpaca Scarlett Demo, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffb608;fill-opacity:1;stroke-width:1.04234"
+         x="298.7923"
+         y="435.31171"
+         id="text3"
+         transform="scale(1.3590273,0.73582039)"><tspan
+           sodipodi:role="line"
+           id="tspan3"
+           x="298.7923"
+           y="435.31171"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5081px;font-family:'Alpaca Scarlett Demo';-inkscape-font-specification:'Alpaca Scarlett Demo, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffb608;fill-opacity:1;stroke-width:1.04234">D</tspan></text><path
+         style="fill:#ffb608;fill-opacity:1;stroke-width:0.104299"
+         d="m 415.57366,320.2765 c 0,-0.15033 -0.20082,-1.75082 -0.23747,-1.89257 -0.14432,-0.55817 -0.57338,-1.07653 -1.10764,-1.33821 -0.32027,-0.15685 -0.53959,-0.20198 -1.47771,-0.30399 -0.46095,-0.0502 -0.83811,-0.098 -0.83811,-0.10641 0,-0.008 0.37754,-0.0568 0.83898,-0.10748 0.46141,-0.0508 0.93189,-0.11534 1.04546,-0.14363 0.27338,-0.0681 0.61354,-0.23528 0.82271,-0.4044 0.32337,-0.26147 0.61608,-0.70755 0.71539,-1.09021 0.0362,-0.13954 0.23839,-1.74728 0.23839,-1.89571 0,-0.0259 0.006,-0.0406 0.0146,-0.0327 0.008,0.008 0.0577,0.39608 0.11054,0.86263 0.0529,0.46654 0.11557,0.92857 0.13942,1.02674 0.16051,0.66043 0.71757,1.25933 1.38237,1.48618 0.226,0.0771 0.33753,0.0932 1.75061,0.25295 0.18305,0.0207 0.3141,0.0444 0.29122,0.0528 -0.0229,0.008 -0.40356,0.0544 -0.84591,0.10215 -0.44236,0.0479 -0.88388,0.10477 -0.98114,0.12651 -0.76884,0.17177 -1.41602,0.79733 -1.59513,1.54183 -0.0246,0.10204 -0.0877,0.56699 -0.14053,1.03325 -0.0527,0.46625 -0.10264,0.85444 -0.11093,0.86264 -0.008,0.008 -0.015,-0.006 -0.015,-0.0324 z"
+         id="path3" /></g></g></svg>
